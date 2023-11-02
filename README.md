@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @IncbomDev
-- 👀 I’m interested in coding (Im on github, so yea)
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on CraftyStudios
-- 📫 How to reach me: [Discord](https://discord.gg/8z9Y4tfNAZ)
-- [Google](https://google.com)
-- [![Incbom's GitHub stats](https://github-readme-stats.vercel.app/api?username=IncbomDev)](https://github.com/anuraghazra/github-readme-stats)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IncbomDev)](https://github.com/anuraghazra/github-readme-stats)
-
+![Metrics](https://metrics.lecoq.io/IncbomDev?template=classic&introduction=1&skyline=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&introduction=false&introduction.title=true&skyline=false&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=true&skyline.settings=%7B%0A%20%20%22url%22%3A%20%22https%3A%2F%2Fskyline.github.com%2F%24%7Blogin%7D%2F%24%7Byear%7D%22%2C%0A%20%20%22ready%22%3A%20%22%5B...document.querySelectorAll('span')%5D.map(span%20%3D%3E%20span.innerText).includes('Share%20on%20Twitter')%22%2C%0A%20%20%22wait%22%3A%201%2C%0A%20%20%22hide%22%3A%20%22button%2C%20footer%2C%20a%22%0A%7D%0A&config.timezone=America%2FNew_York&config.padding=0%2C%208%20%2B%2011%25%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20)
